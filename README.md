@@ -1,3 +1,1 @@
-# flutter_application_1
-
-A new Flutter project.
+Uzman Sistemler Projesinin Ürün Ekranı Bölümünün Kodlarını İçermektedir
